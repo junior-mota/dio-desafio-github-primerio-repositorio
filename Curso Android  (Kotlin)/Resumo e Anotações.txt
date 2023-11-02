@@ -1,0 +1,18 @@
+CONHECENDO O KOTLIN
+
+Intellij IDEA ou Android Studio = ambos rodam o Kolin, ou na versão web com kotlin playgrund
+
+- Porque o kotlin? 
+	- linguagem facil
+	- segurança
+	- interoperavel com o java e etc.
+	- multiplataforma
+
+
+Primeiras linha de codigo
+
+	package org.kotlinlang.play  // 1. Definição do pacote (algo muito importante e comum para organização de codigo)
+
+	fun main (){   	// 2. Ponto de entrada de um codigo kotlin, definido pela função main
+
+	println("Ola Mundo!")	// 3. Imprime na saida padrão de um texto, pulando linha

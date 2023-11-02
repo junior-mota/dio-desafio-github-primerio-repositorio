@@ -1,0 +1,12 @@
+CRINADO E CLONANDO REPOSITÓRIO
+
+- $ mkdir = criar um diretório
+- $ git init = tranformar em repositório git
+- $ git clone = clona reposiório
+- $ git status = mostar o status da area de trabalho ou arvore de codigos
+- $ ls =lista conteudo dentro do diretório
+- $ ctrl + L = limpa o terminal
+- $ git remote add "origin" url = conenct um repositório a outro
+
+
+MARKDOWN (.md) = é uma linguagem facil de ler e de gravar para formatar texto sem formatação
